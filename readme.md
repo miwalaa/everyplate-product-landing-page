@@ -4,7 +4,7 @@
 
 This project is part of the freeCodeCamp curriculum
 
-**Live Demo**: []
+**Live Demo**: [https://everyplate-product-landing-page-loum4wnwl-miwalaas-projects.vercel.app/]
 
 ## Acknowledgements 
 
@@ -12,4 +12,4 @@ This project is a clone of the design from [EveryPlate](https://www.everyplate.c
 
 ## License
 
-[MIT](LICENSE)"# everyplate-product-landing-page" 
+[MIT](LICENSE)
